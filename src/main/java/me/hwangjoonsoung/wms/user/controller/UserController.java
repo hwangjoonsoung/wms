@@ -2,6 +2,7 @@ package me.hwangjoonsoung.wms.user.controller;
 
 import lombok.RequiredArgsConstructor;
 import me.hwangjoonsoung.wms.user.dto.EditUserInfo;
+import me.hwangjoonsoung.wms.user.dto.EditUserPassword;
 import me.hwangjoonsoung.wms.user.dto.SignUpUser;
 import me.hwangjoonsoung.wms.user.service.UserService;
 import org.springframework.stereotype.Controller;
